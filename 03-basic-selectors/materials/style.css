@@ -1,0 +1,38 @@
+body{
+	background-image:C:\Users\Ciaran Darcy\Documents\Code_Institute\Projects\CSS3-challenges\03-basic-selectors\materials\images\bg_page.png; 
+	background-position:top;
+	background-repeat: repeat-y;
+	padding-right: 20%;
+	padding-left:20%;
+}
+strong{
+	color:red;
+}
+
+
+
+h1, h2, h3{
+	color:#bd8100;
+	border-top: 2px solid green;
+	padding-top: 8px;
+	padding-left:100px;
+}
+
+
+
+#article {
+			background-color: #FDF8AB;
+			background-image: url(images/bg_page.png);
+			background-repeat: repeat-y;
+			background-position: center top;
+			padding: 0;
+			margin: 0 auto;
+			width: 760px;
+		}
+
+.note{
+	border: 1px dashed #cc6600;
+	background-color: #FFFFCC;
+}
+
+
